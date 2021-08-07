@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.cognizant.medicalrepresentativeschedule.service.MedRepScheduleServiceImplTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 3.247 s <<< FAILURE! - in com.cognizant.medicalrepresentativeschedule.service.MedRepScheduleServiceImplTest
+testGetRepSchedule  Time elapsed: 2.589 s  <<< FAILURE!
+java.lang.AssertionError
+	at com.cognizant.medicalrepresentativeschedule.service.MedRepScheduleServiceImplTest.testGetRepSchedule(MedRepScheduleServiceImplTest.java:59)
+

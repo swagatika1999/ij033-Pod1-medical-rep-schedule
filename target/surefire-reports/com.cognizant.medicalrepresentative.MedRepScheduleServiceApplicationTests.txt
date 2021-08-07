@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.cognizant.medicalrepresentative.MedRepScheduleServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.276 s <<< FAILURE! - in com.cognizant.medicalrepresentative.MedRepScheduleServiceApplicationTests
+com.cognizant.medicalrepresentative.MedRepScheduleServiceApplicationTests  Time elapsed: 1.243 s  <<< ERROR!
+java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
+

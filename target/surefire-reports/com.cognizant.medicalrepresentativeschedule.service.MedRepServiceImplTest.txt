@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.cognizant.medicalrepresentativeschedule.service.MedRepServiceImplTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.007 s <<< FAILURE! - in com.cognizant.medicalrepresentativeschedule.service.MedRepServiceImplTest
+testGetMedicalRepresentatives  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.cognizant.medicalrepresentativeschedule.service.MedRepServiceImplTest.testGetMedicalRepresentatives(MedRepServiceImplTest.java:46)
+
